@@ -10,4 +10,4 @@ The user can choose the length of the password and decide to use it by pressing 
 
 
 This program is ideal for generating strong, secure passwords without having to worry about creating them yourself. It is easy to use and can be customized according to the user's needs.
-[![GitHub followers](https://img.shields.io/github/followers/Aminecool15?label=Follow&style=social)](https://github.com/Aminecool15)
+
