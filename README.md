@@ -1,4 +1,5 @@
 # Baguette-Project
+[![GitHub followers](https://img.shields.io/github/followers/Aminecool15?label=Follow&style=social)](https://github.com/Aminecool15)
 
 This Python program allows you to generate random passwords of a custom length. It uses the random library to select random characters from the predefined strings string.ascii_letters, string.digits and string.punctuation.
 
