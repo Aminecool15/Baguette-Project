@@ -6,6 +6,8 @@ Baguette Project is a program written in Python that allows you to create strong
 
 ![ezgif-1-3324d03c69](https://user-images.githubusercontent.com/97691793/235682215-09bf51ef-d04c-4d07-b8da-9e744fb929c9.gif)
 
+<span style="background-image: linear-gradient(to right, #0052D4, #FFFFFF, #EF4135); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">100% Made in France</span>
+
 
 # Screenshot
 
