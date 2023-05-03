@@ -16,7 +16,7 @@ Baguette Project is a program written in Python that allows you to create strong
 
 ##### Clone this repository
 
- - ```https://github.com/Aminecool15/Baguette-Project```
+ - ```git clone https://github.com/Aminecool15/Baguette-Project```
 
 ##### Enter the directory
  - ```cd Baguette-Project-main```
