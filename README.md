@@ -14,7 +14,6 @@ Baguette Project is a program written in Python that allows you to create strong
 
 # Instalaltion 
 
-```
-pip colorama
-```
+1-Download the ZIP file
+
 
