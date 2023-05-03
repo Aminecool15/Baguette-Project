@@ -18,7 +18,7 @@ Baguette Project is a program written in Python that allows you to create strong
 
 ```Winrar```https://www.win-rar.com/start.html?&L=10
 
-# Instalaltion 
+# installation 
 
 ### Download Files 
 
