@@ -14,20 +14,27 @@ Baguette Project is a program written in Python that allows you to create strong
 
 # Instalaltion 
 
-##### Download Files
+### Download Files 
 
  - ```Click on the green "Code" button, then on "Download ZIP".```
 
-##### Enter the directory
+### Enter the directory
  - ```Once the ZIP file is downloaded, extract it to the directory of your choice```
  - ```Open your terminal or command prompt```
  ```
  cd path/to/Baguette-Project
  ````
-##### Install all modules
- - ```pip install -r requirements.txt```
+### Install all modules
+ ```
+ pip install -r requirements.txt
+ ```
 
-##### Run the tool
- - ```python project.py```
+### Run the tool
+ ```
+ python project.py
+ ```
+
+![ezgif-5-6a4c852189](https://user-images.githubusercontent.com/97691793/236001925-a3f857bc-a5e4-4285-9ed4-e79e4446c425.png)
+
 
 
