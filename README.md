@@ -12,6 +12,12 @@ Baguette Project is a program written in Python that allows you to create strong
 # Screenshot
 ![project (1)](https://user-images.githubusercontent.com/97691793/235813330-ee543259-d9ad-4169-b530-ae2d18dfb04e.gif)
 
+
+# Prerequites
+```Python```https://www.python.org
+
+```Winrar```https://www.win-rar.com/start.html?&L=10
+
 # Instalaltion 
 
 ### Download Files 
