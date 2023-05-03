@@ -14,6 +14,17 @@ Baguette Project is a program written in Python that allows you to create strong
 
 # Instalaltion 
 
-1-Download the ZIP file
+##### Clone this repository
+
+ - ```https://github.com/Aminecool15/Baguette-Project```
+
+##### Enter the directory
+ - ```cd Baguette-Project-main```
+
+##### Install all modules
+ - ```pip install -r requirements.txt```
+
+##### Run the tool
+ - ```python Password Generator.py```
 
 
